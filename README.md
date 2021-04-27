@@ -1,6 +1,7 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mahitha! </h1>
 
-<hr>
+
+<h3>A bit about me </h3>
 <p> Despite being an ECE student, I enjoy exploring Tech as most of the emerging technologies are not branch/specialization specific. Through the same enthusiasm I explored web development, interned as Technical Content Writer through which I developed a strong passion to learn and hence I'm flexible to the ever changing technologies. </p>
 
 <hr>
