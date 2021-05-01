@@ -1,9 +1,8 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mahitha! </h1>
-<p>Nice to have you here!</p>
+<p>Nice to have you here!</p> :heart:
 
 <h3>A bit about me - </h3>
-<p>Hello again,I'm Mahitha, an electronics graduate.</p>
-<p>Despite being an ECE student, I enjoy exploring Tech as most of the emerging technologies are not branch/specialization specific. With the same enthusiasm I explored web development, interned as Technical Content Writer through which I developed a strong passion to learn and hence I'm flexible to the ever changing technologies. </p>
+<p>Hello again,I enjoy exploring Tech and creating enriching Web interfaces, with the same enthusiasm, I began to learn Web development and making my hands dirty by creating some fun Frontend stuff.</p>
 <hr>
 <h3>Tool Box - </h3>
 <p>
@@ -22,4 +21,4 @@
   <a href="https://www.linkedin.com/in/mahithayellani" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@mahithayellani" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-<p>Feel free to collaborate and share your valuable feedback.</p>
+<p>:bowtie: Feel free to collaborate and share your valuable feedback.</p> 
