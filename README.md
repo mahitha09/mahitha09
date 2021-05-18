@@ -2,7 +2,7 @@
 <p>Nice to have you here!</p> :heart:
 
 <h3>A bit about me - </h3>
-<p>Hello again,I enjoy exploring Tech and creating enriching Web interfaces, with the same enthusiasm, I began to learn Web development and making my hands dirty by creating some fun Frontend stuff.</p>
+<p>Hello again,I enjoy exploring Tech and creating enriching Web interfaces, with the same enthusiasm, I'm making my hands dirty by designing and developing some cool fun Frontend stuff.</p>
 <hr>
 <h3>Tool Box - </h3>
 <p>
