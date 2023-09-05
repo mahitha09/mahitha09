@@ -2,18 +2,7 @@
 <p>Nice to have you here!</p> :heart:
 
 <h3>A bit about me - </h3>
-<p>Hello again,I enjoy exploring Tech and creating enriching Web interfaces, with the same enthusiasm, I'm making my hands dirty by designing and developing some cool fun Frontend stuff.</p>
-<hr>
-<h3>Tool Box - </h3>
-<p>
-    <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap Logo" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github Logo" width="50" height="50"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma Logo" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual-studio-code-1 Logo" width="50" height="50"/>
-</p>
+<p>Hello again,I enjoy exploring Tech and test enriching Web interfaces, with the same enthusiasm, I'm making my hands dirty by testing non-functional aspects of Applications.</p>
 <hr>
 <h3>You can find me here - </h3>
 <p>
